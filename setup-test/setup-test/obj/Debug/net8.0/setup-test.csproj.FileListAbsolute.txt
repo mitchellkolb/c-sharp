@@ -1,0 +1,15 @@
+C:\Files\Code\c-sharp\setup-test\setup-test\bin\Debug\net8.0\setup-test.exe
+C:\Files\Code\c-sharp\setup-test\setup-test\bin\Debug\net8.0\setup-test.deps.json
+C:\Files\Code\c-sharp\setup-test\setup-test\bin\Debug\net8.0\setup-test.runtimeconfig.json
+C:\Files\Code\c-sharp\setup-test\setup-test\bin\Debug\net8.0\setup-test.dll
+C:\Files\Code\c-sharp\setup-test\setup-test\bin\Debug\net8.0\setup-test.pdb
+C:\Files\Code\c-sharp\setup-test\setup-test\obj\Debug\net8.0\setup-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files\Code\c-sharp\setup-test\setup-test\obj\Debug\net8.0\setup-test.AssemblyInfoInputs.cache
+C:\Files\Code\c-sharp\setup-test\setup-test\obj\Debug\net8.0\setup-test.AssemblyInfo.cs
+C:\Files\Code\c-sharp\setup-test\setup-test\obj\Debug\net8.0\setup-test.csproj.CoreCompileInputs.cache
+C:\Files\Code\c-sharp\setup-test\setup-test\obj\Debug\net8.0\setup-test.sourcelink.json
+C:\Files\Code\c-sharp\setup-test\setup-test\obj\Debug\net8.0\setup-test.dll
+C:\Files\Code\c-sharp\setup-test\setup-test\obj\Debug\net8.0\refint\setup-test.dll
+C:\Files\Code\c-sharp\setup-test\setup-test\obj\Debug\net8.0\setup-test.pdb
+C:\Files\Code\c-sharp\setup-test\setup-test\obj\Debug\net8.0\setup-test.genruntimeconfig.cache
+C:\Files\Code\c-sharp\setup-test\setup-test\obj\Debug\net8.0\ref\setup-test.dll
