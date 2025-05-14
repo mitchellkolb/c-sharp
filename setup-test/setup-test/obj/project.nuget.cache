@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "P1ja3EkUEB4=",
+  "dgSpecHash": "CuXcWfYo5bs=",
   "success": true,
-  "projectFilePath": "C:\\Files\\Code\\c-sharp\\setup-test\\setup-test\\setup-test.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/mitchellkolb/Downloads/GitHub/c-sharp/setup-test/setup-test/setup-test.csproj",
+  "expectedPackageFiles": [
+    "/Users/mitchellkolb/.nuget/packages/microsoft.netcore.app.ref/8.0.16/microsoft.netcore.app.ref.8.0.16.nupkg.sha512",
+    "/Users/mitchellkolb/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.16/microsoft.aspnetcore.app.ref.8.0.16.nupkg.sha512",
+    "/Users/mitchellkolb/.nuget/packages/microsoft.netcore.app.host.osx-x64/8.0.16/microsoft.netcore.app.host.osx-x64.8.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
