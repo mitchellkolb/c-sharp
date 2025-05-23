@@ -1,2 +1,4 @@
 # Ignore all Visual Studio workspace & IntelliSense caches
 **/.vs/
+**/obj/
+**/bin/
