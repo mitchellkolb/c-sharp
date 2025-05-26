@@ -81,3 +81,43 @@ namespace TallyBoard.Controllers
             _dbContext.People.Any(e => e.Id == id);
     }
 }
+
+[ApiController]
+[Route("api/[controller]")]
+public class PeopleController : ControllerBase
+{
+    private readonly ApplicationDbContext dbContext;
+
+    public PeopleController(ApplicationDbContext dbContext)
+        => this.dbContext = dbContext;
+
+    // ... existing GET/POST/PUT/DELETE actions ...
+
+    // PATCH: api/people/5/increment
+    [HttpPatch("{id:int}/increment")]
+    public async Task<ActionResult<Person>> IncrementTally(int id)
+    {
+        var person = await dbContext.People.FindAsync(id);
+        if (person is null)
+            return NotFound();
+
+        person.TallyAmount++;
+        await dbContext.SaveChangesAsync();
+
+        return Ok(person);
+    }
+
+    // PATCH: api/people/5/decrement
+    [HttpPatch("{id:int}/decrement")]
+    public async Task<ActionResult<Person>> DecrementTally(int id)
+    {
+        var person = await dbContext.People.FindAsync(id);
+        if (person is null)
+            return NotFound();
+
+        person.TallyAmount--;
+        await dbContext.SaveChangesAsync();
+
+        return Ok(person);
+    }
+}
