@@ -5,8 +5,20 @@
 
 
 ## TOC
+- 
 - [New Project](#creating-new-project-in-vscode)
 - [Facts](#facts)
+
+
+
+
+
+
+#### Timestamps
+![Video Link](https://www.youtube.com/watch?v=YrtFtdTTfv0)
+- 0:00-10:58 -> 1-intro
+
+
 
 
 
