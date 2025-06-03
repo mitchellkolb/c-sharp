@@ -18,8 +18,8 @@
 ![Video Link](https://www.youtube.com/watch?v=YrtFtdTTfv0)
 - 0:00-10:58 -> 1-intro
 - 18:08 -> 2-numeric-data-types
-- 0 -> 3-text-based-data-types
-
+- 20:31 -> 3-text-based-data-types
+- 0 -> 4-converting-string-to-numbers
 
 
 
